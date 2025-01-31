@@ -1,5 +1,11 @@
+# Inventory Management
+# Imagine you work in a logistics company and your task is to develop an inventory control system.
+# The inventory is represented by a list of products ordered by their codes. Each product is described
+# as a dictionary with the keys 'code' and 'quantity'. Your goal is to implement a recursive function
+# that performs a binary search on this inventory and returns the available quantity for a specific product, given its code.
+
 # Gestion de Inventario
-# Imagina que tabajas en un empresa de logistica y tu tarea es desarrollar un sistema de control de inventario. 
+# Imagina que trabajas en una empresa de logistica y tu tarea es desarrollar un sistema de control de inventario. 
 # El inventario esta representado por una lista de productos ordenados por sus codigos. Cada producto se describe
 # como un diccionario con las claves 'codigo' y'cantidad'. Tu objectivo es implementar una funcion recursiva que realice
 # una busqueda binaria en este inventario y devuelva la cantidad deisponible para um productor especifico, dado su codigo.

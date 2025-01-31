@@ -1,4 +1,5 @@
 Recursion Example for Product Search in Inventory
+
 This repository contains an example of using recursion to search for a specific product within an inventory. The search is based on a given product code, which the user can provide as an input.
 
 How it works:
